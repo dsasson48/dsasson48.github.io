@@ -17,6 +17,8 @@ author:
 
 paginate:         5
 
+highlighter: pygments.rb
+
 plugins: [jekyll-paginate]
 
 # Custom vars
