@@ -1,32 +1,5 @@
-# Dependencies
-markdown:         redcarpet
-pygments:         true
-
-# Permalinks
-permalink:        pretty
-
-# Setup
-title:            David Sasson
-tagline:          'tagline'
-description:      'Please work'
-url:              dsasson48.github.io
-
-author:
-  name:           'David'
-  url:            
-
-paginate:         5
-
-highlighter: pygments.rb
-
-gems: [jekyll-paginate]
-
-plugins: [jekyll-paginate]
-
-
-
-# Custom vars
-version:          2.0.0
-
-github:
-  repo:           https://github.com/dsasson48/dsasson48.github.io
+title: Slate theme
+description: Slate is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-slate
