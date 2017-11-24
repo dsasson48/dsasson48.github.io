@@ -1,26 +1,24 @@
-# Site settings
-title: David Sasson
-description: MS Data Sci HSPH
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
-url: "dsasson48.github.io"
-# User settings
-<<<<<<< HEAD
-username: Data Science
-user_description: MS Data Sci HSPH
-user_title:  
-=======
-username: David Sasson
-user_description: grad student
-user_title: MS Data Sci HSPH  
->>>>>>> dd03144c3d33ae2b7e832882404cc7814f37f8c2
-email: dsasson[at]hsph.harvard.edu
-#twitter_username: no
-github_username:  dsasson48
+# Dependencies
+markdown:         redcarpet
+pygments:         true
 
+# Permalinks
+permalink:        pretty
 
-# Google-analytics
-google-analytics:
-  id: ""
+# Setup
+title:            David Sasson
+tagline:          'tagline'
+description:      'Please work'
+url:              dsasson48.github.io
 
-exclude: ['package.json', 'src' , 'node_modules']
+author:
+  name:           'David'
+  url:            
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/dsasson48/dsasson48.github.io
