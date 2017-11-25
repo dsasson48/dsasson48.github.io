@@ -3,21 +3,13 @@ layout: default
 title: Home
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ site.baseurl }}/{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.content }}
-  </div>
-  {% endfor %}
+<div class="img">
+    <img src="https://media.licdn.com/mpr/mpr/shrink_100_100/AAEAAQAAAAAAAAhRAAAAJDhjZGIzZjQ2LTU1OTctNDJjZi1iMWNmLTkwZmFjNTA5ZGE4NQ.jpg" />
 </div>
+
+<p>MS Health Data Science, HSPH<a href="https://hsph.harvard.edu"</a></p>
+
+
 
 <!-- <div class="pagination">
   {% if paginator.next_page %}
