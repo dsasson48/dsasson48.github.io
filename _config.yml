@@ -5,18 +5,28 @@ permalink:           pretty
 #relative_permalinks: true
 plugins: [jekyll-paginate]
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:               David Sasson
+tagline:             'Data Scientist'
+description:         ''
 url:                 dsasson48.github.io
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
-
+  name: 'David Sasson'
+  email: 'dsasson[at]hsph.harvard[dot]harvard[dot]edu'
+  github: dsasson48
+#  twitter: pesteadman
+  linkedin: david-sasson
+  # goodreads: pesteadman
+  # orcid: http://orcid.org/0000-0002-5814-4977
+  # google_scholar: http://scholar.google.ca/citations?user=Xrn76pEAAAAJ
+  # email_md5: 4a424eaac867c7c43ac960ad6650bfd1
+  # emailalt_md5: 3a91811708b61787ecd9018c9becc99b
+  # disqus_shortname: patricksteadman
+  # google_analytics_id: UA-27104497-1
+  # google_analytics_url: patricksteadman.ca
+  bio: MS student at The Harvard T.H. Chan School of Public Health
 # Custom vars
 version:             1.0.0
