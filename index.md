@@ -9,7 +9,8 @@ title: Home
 
 <p>MS Health Data Science, HSPH<a href="https://hsph.harvard.edu"</a></p>
 
-
+### Header
+[Link to another page](github.com).
 
 <!-- <div class="pagination">
   {% if paginator.next_page %}
