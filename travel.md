@@ -4,12 +4,12 @@ title: Travel
 ---
 
 ### Done
-- [x] Bolivia
-- [x] Alps
-- [x] Nunavut
-- [x] Grand Tetons
+- Bolivia
+- Alps
+- Nunavut
+- Grand Tetons
 
 
 ### To Do
-- [ ] Patagonia
-- [ ] Copenhagen
+- Patagonia
+- Copenhagen
