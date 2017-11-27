@@ -3,7 +3,6 @@ layout: page
 title: Contact
 ---
 
-### How to
-* LinkedIn
-* Email
-* Phone
+* [LinkedIn](https://www.linkedin.com/in/david-sasson/)
+* [Email](<mailto:dsasson@hsph.harvard.edu>)
+* [Carrier Pigeon](http://www.pigeongram.com/)

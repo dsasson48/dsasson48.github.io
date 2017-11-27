@@ -9,7 +9,7 @@ plugins: [jekyll-paginate]
 # Setup
 title:               David Sasson
 tagline:             'Data Scientist'
-description:         'Made in NYC'
+description:         'Insatiably Curious'
 url:                 dsasson48.github.io
 baseurl:             ''
 paginate:            5
