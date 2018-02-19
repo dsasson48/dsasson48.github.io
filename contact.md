@@ -7,4 +7,4 @@ title: Contact
 #### [Email](<mailto:dsasson@hsph.harvard.edu>)
 #### [Carrier Pigeon](http://www.pigeongram.com/)
 
-![]({{ "/assets/images/a.jpg" | absolute_url }})
+<img src="/assets/images/a.jpg">

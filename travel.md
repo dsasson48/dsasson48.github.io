@@ -16,5 +16,5 @@ title: Travel
 - Patagonia
 - Copenhagen
 
-![]({{ "/assets/images/b.jpg" | absolute_url }})
+<img src="/assets/images/b.jpg">
 	
