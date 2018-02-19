@@ -13,7 +13,8 @@ description:         'Insatiably Curious'
 url:                 dsasson48.github.io
 baseurl:             ''
 paginate:            5
-
+include:
+  - "_img"
 # About/contact
 author:
   name: 'David Sasson'

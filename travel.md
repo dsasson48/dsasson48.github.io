@@ -3,6 +3,8 @@ layout: page
 title: Travel
 ---
 
+
+
 ### Done
 - Bolivia
 - Alps
@@ -13,3 +15,6 @@ title: Travel
 ### To Do
 - Patagonia
 - Copenhagen
+
+![]({{ "/assets/images/b.jpg" | absolute_url }})
+	
