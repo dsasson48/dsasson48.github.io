@@ -1,35 +1,110 @@
-markdown:         kramdown
-highlighter:      rouge
+# main text of home
+name: David Sasson
+bio: Data Scientist
 
-# Permalinks
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-#relative_permalinks: true
-plugins: [jekyll-paginate]
-# Setup
-title:               David Sasson
-tagline:             'Data Scientist'
-#description:         'Insatiably Curious'
-url:                 dsasson48.github.io
-baseurl:             ''
-paginate:            5
-include:
-  - "_img"
-# About/contact
-author:
-  name: 'David Sasson'
-  email: 'dsasson[at]hsph.harvard[dot]harvard[dot]edu'
-  github: dsasson48
-#  twitter: pesteadman
-  linkedin: david-sasson
-  # goodreads: pesteadman
-  # orcid: http://orcid.org/0000-0002-5814-4977
-  # google_scholar: http://scholar.google.ca/citations?user=Xrn76pEAAAAJ
-  # email_md5: 4a424eaac867c7c43ac960ad6650bfd1
-  # emailalt_md5: 3a91811708b61787ecd9018c9becc99b
-  # disqus_shortname: patricksteadman
-  # google_analytics_id: UA-27104497-1
-  # google_analytics_url: patricksteadman.ca
-  bio: MS student at The Harvard T.H. Chan School of Public Health
-# Custom vars
-version:             1.0.0
+# twitter summary info
+description: A blog about technology and health related stuff
+
+# if it's an external image, update below for true
+# better with square images
+external-image: false
+picture: assets/images/2profile.jpg
+
+# If you want to include your resume, set to true
+# and specify source (external or local).
+# resume: true
+# resume-external: true
+# resume-url: https://google.com/?q=my+resume
+travel: true
+
+
+url: http://davidsasson.info
+# your url: http://USERNAME.github.io
+
+permalink: /:title/
+
+# To enable google analytics, supply your token below
+ analytics-google: 'UA-110153083-1'
+
+# To enable piwik tracking, supply your url & site ID below
+# analytics-piwik-url: 'piwik.my-host.com'
+# analytics-piwik-id: 1
+
+# if you don't want comments in your posts, leave categories empty
+#disqus:
+#  shortname: mydisqus # enter this from your disqus account
+#  categories: [blog, project] # only show disqus for posts that have these categories
+
+# if you don't have any of social below, comment the line
+#facebook: myfacebook
+#twitter: mytwitter
+# google: mygoogle
+github: dsasson48
+linkedin: david-sasson
+instagram: sasson.jpg
+# pinterest: mypinterest
+
+# youtube: myyoutube
+spotify: d.sasson48
+
+# lastfm: mylastfm
+# stackoverflow: 7044681/mystackoverflow
+# quora: userquora
+# reddit: username
+#medium: medium
+# vimeo: myvimeo
+# lanyrd: mylanyrd
+email: dsasson@hsph.harvard.edu
+
+authors:
+    #johndoe:
+        name: David Sasson
+        bio: Data Scientist
+        external-image: false
+        picture: assets/images/2profile.jpg
+        twitter: johndoe
+
+
+# do you want a larger site? change the option below
+# options: [normal, large] | default: normal
+# normal = 560px / large = 810px
+width: large
+
+# if you don't need pagination, comment the *paginate* configs below
+# paginate: 5
+# paginate_path: "blog/:num/"
+
+# if you don't need projects, comment the *projects* configs below
+projects: true
+
+# if you don't need "about" or "blog", comment them out below
+about: true
+blog: true
+
+# do you want to show the "read time" of the posts?
+read-time: true
+
+# do you want to show the "tags" inside the posts?
+show-tags: true
+
+# related posts inside a post?
+related: true
+
+# Display links for next and previous posts for the specified categories
+post-advance-links: [blog]
+
+# show author block at the end of a post ?
+show-author: true
+
+# do you want some animations?
+animation: true
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-admin
+
+jekyll-mentions:
+    base_url: https://github.com
