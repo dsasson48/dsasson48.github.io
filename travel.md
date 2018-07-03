@@ -3,19 +3,28 @@ title: Travel
 layout: page
 ---
 
+## Current Location - Singapore
 
-### Done
+## Next Stop - Manila
+
+
+##### Done
 - Bolivia
-- Alps
+- Chamonix
 - Nunavut
 - Grand Tetons
 
 
-### To Do
+##### To Do
 - Patagonia
-- Copenhagen
+- Oaxaca
+- South Pole
 
 <img src="/assets/images/a.jpg">
 <img src="/assets/images/b.jpg">
 <img src="/assets/images/c.jpg">
 <img src="/assets/images/d.jpg">
+
+
+
+“travel is the best education” - some guy in Costa Rica.
