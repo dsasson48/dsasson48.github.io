@@ -3,11 +3,6 @@ title: Travel
 layout: page
 ---
 
-### Current Location - Singapore
-
-### Next Stop - Manila
-
-
 ##### Done 
 - Bolivia
 - Chamonix
