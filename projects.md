@@ -3,6 +3,8 @@ title: Projects
 layout: page
 ---
 
+### [Data Viz Tutorial](https://github.com/dsasson48/dataviz)
+
 ### [MIMIC Critical Care Database (code)](https://github.com/cosgriffc/bst261-crrt)
 > [link](https://mimic.physionet.org/)
 
