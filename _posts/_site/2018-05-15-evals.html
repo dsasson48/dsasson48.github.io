@@ -1,0 +1,39 @@
+<p>Deciding what to learning can seem daunting at times. With tons of interesting courses and life-changing professors, how does one choose which classes to take? I decided to investigate this quesiton using my school’s <a href="https://www.hsph.harvard.edu/office-of-education/course-evaluations/">course evaluations</a>, <a href="http://ggplot2.tidyverse.org/">ggplot2</a>, and <a href="https://www.tidytextmining.com/">tidytext</a>. Code is available <a href="https://www.github.com/dsasson48/evals">here</a>.</p>
+
+<h3 id="results">Results</h3>
+
+<p>Each course evaluation has three quesitons regarding teaching quality with scores from 1-5 corresponding to agreeability. There is also a free text section for comments.</p>
+
+<p>First, the three questions are all highly correlated. Not too suprising that highly rated courses have good teachers.</p>
+
+<p><img src="/assets/images/corr.png" alt="" /></p>
+
+<p>Looks like 2016 had more respondents than the previous year.</p>
+
+<p><img src="/assets/images/yr.png" alt="" /></p>
+
+<p>And schools have different popularity over years.</p>
+
+<p><img src="/assets/images/schools.png" alt="" /></p>
+
+<p>As well as each school’s overall rating</p>
+
+<p><img src="/assets/images/rating.png" alt="" /></p>
+
+<p>To make sense of the comments, each word is assigned a score from -5 to +5 corresponding to the overall sentiment expressed, as seen in this cloud.</p>
+
+<p><img src="/assets/images/words.png" alt="" /></p>
+
+<p>Here is the word frequency in certain classes
+<img src="/assets/images/freq.png" alt="" /></p>
+
+<p>We can average the sentiment from school specific comments and compare
+<img src="/assets/images/sent_school.png" alt="" /></p>
+
+<p>Finally, this plot shows the distribtution of word scores for each school
+<img src="/assets/images/dist.png" alt="" /></p>
+
+<h1 id="psa">PSA</h1>
+
+<p>In case you’re wondering: yes, I am that much of a nerd.</p>
+
