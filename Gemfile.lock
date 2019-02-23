@@ -280,6 +280,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   html-proofer
+  http_parser.rb
   jekyll-admin
 
 BUNDLED WITH
