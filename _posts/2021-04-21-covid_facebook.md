@@ -20,10 +20,10 @@ The pandemic has prompted a massive increase in screen time, with most people us
 
 
 The associations between social media use and rising levels of anxiety, depression, and isolation have been documented in countless [articles](https://www.independent.co.uk/life-style/health-and-families/social-media-mental-health-negative-effects-depression-anxiety-addiction-memory-a8307196.html
-), (documentaries)[https://www.searchenginejournal.com/social-media-movies/313503/], and robust [academic research](https://pubmed.ncbi.nlm.nih.gov/27881357/). Once we’re all vaccinated and mask-free—will we stick to the same social media diet? 
+), [documentaries](https://www.searchenginejournal.com/social-media-movies/313503/), and robust [academic research](https://pubmed.ncbi.nlm.nih.gov/27881357/). Once we’re all vaccinated and mask-free—will we stick to the same social media diet? 
 
-Facebook has become the solution to problems we didn’t know we had. A digital pacifier that calms us while we wait, a humming virtual engine that soothes (or stokes) social anxiety, it serves billions worldwide as a vital communication tool. And it suffers catastrophic data breaches, like the (recent leak)[http://npr.org/2021/04/09/986005820/after-data-breach-exposes-530-million-facebook-says-it-will-not-notify-users
-] that compromised the privacy of millions of users.
+Facebook has become the solution to problems we didn’t know we had. A digital pacifier that calms us while we wait, a humming virtual engine that soothes (or stokes) social anxiety, it serves billions worldwide as a vital communication tool. And it suffers catastrophic data breaches, like the [recent leak](http://npr.org/2021/04/09/986005820/after-data-breach-exposes-530-million-facebook-says-it-will-not-notify-users
+) that compromised the privacy of millions of users.
  
 Yet the Facebook behemoth persists, relatively unscathed. A decade ago, the nuclear disaster and tsunami at Fukushima prompted global compassion and environmental outrage; a flood of data today, however, provokes far less action and anger. I wonder why.
 
@@ -37,9 +37,10 @@ It kind of feels like the digital version of [Operation Condor](https://en.wikip
 I may hate my own relationship with Facebook, but I understand its merit and utility. I’ve used it for high school assignments, birthday reminders, and countless facets of daily life. Its political power is unmatched, for good and ill. We all feel guilty about aimlessly “doom-scrolling” – but distractions from real life have their place. More concerning to me is our near-constant monitoring and vigilance of our social channels, which verges on dependence. Too often, it can seem that our digital lives control and dictate our identities in the real world. I’m suggesting we can and should push back a little -- take ownership over your purpose in using the technology, so the tech doesn’t dominate.
 
  
-I’m trying to reshape my digital habits and move from reflexive use to something more strategic. Here’s what I’ve discovered:
-
  
+ 
+ 
+I’m trying to reshape my digital habits and move from reflexive use to something more strategic. Here’s what I’ve discovered:
 
 __Delete social apps from your phone__ – or put a timer on to limit your use. Becoming aware of how much time you spend staring at the bright rectangle in your hand is the first step. Even if your job requires near-constant social engagement, draw boundaries to divide work hours from the rest of your life, and respect them.
 
@@ -51,12 +52,9 @@ __Clarify your intentions__ We’ve all been there. Your mind is numb, but your 
 
 __Actual connection beats digital connection__ The myth of Facebook and other social platforms is greater connection – when the reality is greater isolation and rising mental health risk, especially among frequent users. So set yourself a challenge: *Facetime > Texting > Commenting > Liking > Scrolling.* Real-world activities are a profound contrast to the myriad tech pings of our workaday lives – and a simple, powerful way to rediscover life’s many pleasures beyond the all-consuming screen. Take a chance on human interaction; resist the habit of isolation that Corona has cultivated. 
 
- 
-
-As Susan Bird, CEO of wf360, noted in her [TED talk](https://www.ted.com/talks/susan_bird_conversation_the_new_luxury): 
+As Susan Bird noted in her [TED talk](https://www.ted.com/talks/susan_bird_conversation_the_new_luxury): 
 
 > “the advent of texting is birth control for conversations”
-
 
 Many assert that government has a role in modifying social-media policy and usage. I’m no Luddite, but I believe that the solution to digital hyper-saturation is up to us, the users, to take advantage of the tools that best serve us, and to limit (or reject entirely) the tools that undermine and work against our goals and mental health. This turning point is an opportunity to disrupt our default habits. I’ve decided to prioritize growing my circle in real life, not racking up superficial connections on social media.  
 
@@ -66,10 +64,10 @@ It’s pretty simple, but feels radical. Take a break from your phone. It will s
 
 This post was inspired by a mix of sources all of which I recommend digging deeper into if you're curious
 
-[Digital Minimalism](https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy-ebook/dp/B07DBRBP7G)
-[Future Proof](https://www.amazon.com/Future-Proof-Reinventing-Work-Acceleration-ebook/dp/B07MC78G3Z)
-[CGP Grey video](https://www.youtube.com/watch?v=e-ZpsxnmmbE&ab_channel=CGPGrey)
-[New Yorker Article](https://www.newyorker.com/news/letter-from-silicon-valley/in-the-clubhouse)
+* [Digital Minimalism](https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy-ebook/dp/B07DBRBP7G)
+* [CGP Grey video](https://www.youtube.com/watch?v=e-ZpsxnmmbE&ab_channel=CGPGrey)
+* [New Yorker Article](https://www.newyorker.com/news/letter-from-silicon-valley/in-the-clubhouse)
+* [Future Proof](https://www.amazon.com/Future-Proof-Reinventing-Work-Acceleration-ebook/dp/B07MC78G3Z)
 
 
  
