@@ -7,6 +7,6 @@ I’m a data scientist at [nference](https://nference.ai/) where I work on all s
 
 Questions? Interesting ideas to share? Drop me a line. 
 
-Thanks for reading!</div>
+Thanks for reading!
 
 
