@@ -1,15 +1,12 @@
 ---
 title: About
 layout: page
----
+--_
 
+#### Hi! I’m a data scientist at [nference](https://nference.ai/) where I work on all sorts of fun projects around healthcare and artificial intelligence. I previously studied at [Macaulay Honors College](https://macaulay.cuny.edu/) and [Harvard](https://www.hsph.harvard.edu/) focusing on biochemistry and data science. 
 
-<img align="left" width="100" height="100" src="/assets/images/2profile.jpg">
+#### Questions? Interesting ideas to share? Drop me a line. 
 
-Hi! I’m a data scientist at [nference](https://nference.ai/) where I work on all sorts of fun projects around healthcare and artificial intelligence. I previously studied at [Macaulay Honors College](https://macaulay.cuny.edu/) and [Harvard](https://www.hsph.harvard.edu/) focusing on biochemistry and data science. 
-
-Questions? Interesting ideas to share? Drop me a line. 
-
-Thanks for reading!</div>
+#### Thanks for reading!</div>
 
 
