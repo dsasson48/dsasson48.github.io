@@ -4,9 +4,7 @@ layout: page
 ---
 
 
-<img align="left" width="400" height="400" src="/assets/images/2profile.jpg">
-
-
+<img align="left" width="200" height="200" src="/assets/images/2profile.jpg">
 
 
 
