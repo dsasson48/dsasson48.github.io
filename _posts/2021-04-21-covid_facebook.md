@@ -67,7 +67,6 @@ This post was inspired by a mix of sources all of which I recommend digging deep
 * [Digital Minimalism](https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy-ebook/dp/B07DBRBP7G)
 * [CGP Grey video](https://www.youtube.com/watch?v=e-ZpsxnmmbE&ab_channel=CGPGrey)
 * [New Yorker Article](https://www.newyorker.com/news/letter-from-silicon-valley/in-the-clubhouse)
-* [Future Proof](https://www.amazon.com/Future-Proof-Reinventing-Work-Acceleration-ebook/dp/B07MC78G3Z)
 
 
  
