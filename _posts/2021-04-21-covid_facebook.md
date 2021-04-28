@@ -37,30 +37,25 @@ It kind of feels like the digital version of [Operation Condor](https://en.wikip
 I may hate my own relationship with Facebook, but I understand its merit and utility. I’ve used it for high school assignments, birthday reminders, and countless facets of daily life. Its political power is unmatched, for good and ill. We all feel guilty about aimlessly “doom-scrolling” – but distractions from real life have their place. More concerning to me is our near-constant monitoring and vigilance of our social channels, which verges on dependence. Too often, it can seem that our digital lives control and dictate our identities in the real world. I’m suggesting we can and should push back a little -- take ownership over your purpose in using the technology, so the tech doesn’t dominate.
 
  
- 
- 
- 
 I’m trying to reshape my digital habits and move from reflexive use to something more strategic. Here’s what I’ve discovered:
 
 __Delete social apps from your phone__ – or put a timer on to limit your use. Becoming aware of how much time you spend staring at the bright rectangle in your hand is the first step. Even if your job requires near-constant social engagement, draw boundaries to divide work hours from the rest of your life, and respect them.
 
- 
 
 __Clarify your intentions__ We’ve all been there. Your mind is numb, but your thumb is still scrolling strong, scanning the app for a quick dopamine rush. Before opening the app, ask yourself—why am I doing this? Do I need a break from work? Am I just killing time in the dentist’s office? Am I nervous in a new social environment? Should I reconnect with Steve? All of these can be legitimate purposes— but if you’re not self-aware, the algorithm spoon feeds you a hot mess of envy.  
-
- 
-
 __Actual connection beats digital connection__ The myth of Facebook and other social platforms is greater connection – when the reality is greater isolation and rising mental health risk, especially among frequent users. So set yourself a challenge: *Facetime > Texting > Commenting > Liking > Scrolling.* Real-world activities are a profound contrast to the myriad tech pings of our workaday lives – and a simple, powerful way to rediscover life’s many pleasures beyond the all-consuming screen. Take a chance on human interaction; resist the habit of isolation that Corona has cultivated. 
 
+__Experiment with other tools__ We've witnessed the metoric rise of alterative social media apps (TikTok, ClubHouse, Discord, etc.) within the past year alone. It's obvious that people are desperate to connect after the pandemic, and yearning for greater intimacy and understanding across a politicaly polarized world. Try a new tool with a group of friends and see what works best to cultivate your best social media experience. 
+
+Many assert that government has a role in modifying social-media policy and usage. I’m no Luddite, but I believe that the solution to digital hyper-saturation is up to us, the users, to take advantage of the tools that best serve us, and to limit (or reject entirely) the tools that undermine and work against our goals and mental health. This turning point is an opportunity to disrupt our default habits. 
+ 
 As Susan Bird noted in her [TED talk](https://www.ted.com/talks/susan_bird_conversation_the_new_luxury): 
 
 > “the advent of texting is birth control for conversations”
 
-Many assert that government has a role in modifying social-media policy and usage. I’m no Luddite, but I believe that the solution to digital hyper-saturation is up to us, the users, to take advantage of the tools that best serve us, and to limit (or reject entirely) the tools that undermine and work against our goals and mental health. This turning point is an opportunity to disrupt our default habits. I’ve decided to prioritize growing my circle in real life, not racking up superficial connections on social media.  
-
+This astute comment was made way back in 2016. If we extend this metaphor to the present day, I find myself asking--are the conversations we're having online just one night stands or children that become functional adults?  
  
-It’s pretty simple, but feels radical. Take a break from your phone. It will still be there when you need it – but you just may “need” it less, and discover solace, connection and motivation in the real, non-digital world.
-
+It’s pretty simple, but feels radical. Take a break from your phone for a bit and come back when you have an legitimate reason to use it. It will still be there when you need it – but you just may “need” it less, and discover solace, connection and motivation in the real, non-digital world.
 
 This post was inspired by a mix of sources all of which I recommend digging deeper into if you're curious
 
