@@ -9,7 +9,7 @@ layout: page
 <img src="/assets/images/b.jpg">
 <img src="/assets/images/x1.jpeg">
 <img src="/assets/images/x13.jpeg">
-<img src="/assets/images/a.jpg">
+<img src="/assets/images/c.jpg">
 <img src="/assets/images/d.jpg">
 <img src="/assets/images/x3.jpg">
 <img src="/assets/images/e.jpg">
