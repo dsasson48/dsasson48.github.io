@@ -21,6 +21,9 @@ future: true
 url: http://dsasson48.github.io
 # your url: http://USERNAME.github.io
 
+enforce_ssl: http://dsasson48.github.io
+
+
 permalink: /:title/
 
 # To enable google analytics, supply your token below
