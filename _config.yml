@@ -3,7 +3,7 @@ name: David Sasson
 bio: Data Scientist
 
 # twitter summary info
-description: A blog about technology and health related stuff
+# description: A blog about technology and health related stuff
 
 # if it's an external image, update below for true
 # better with square images
@@ -20,6 +20,9 @@ future: true
 
 url: http://dsasson48.github.io
 # your url: http://USERNAME.github.io
+
+enforce_ssl: http://dsasson48.github.io
+
 
 permalink: /:title/
 

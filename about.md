@@ -2,12 +2,11 @@
 title: About
 layout: page
 ---
-<div class="side-by-side">
-    <div class="toleft">
-        <img class="image" src="/assets/images/2profile.jpg" alt="Alt Text">
-    </div>
 
-    <div class="toright">
-        <p><a href="https://www.hsph.harvard.edu/">Harvard</a> and <a href="https://macaulay.cuny.edu/">Macaulay Honors College</a> alum. Current focus is on health data science / AI. Thanks for reading!</p>
-    </div>
-</div>
+I’m a data scientist at [nference](https://nference.ai/) where I work on all sorts of fun projects around healthcare and artificial intelligence. I previously studied at [Macaulay Honors College](https://macaulay.cuny.edu/) and [Harvard](https://www.hsph.harvard.edu/) focusing on biochemistry and data science. 
+
+Interesting ideas/links to share? Feel free to hit me up. 
+
+Thanks for reading!
+
+
