@@ -14,12 +14,12 @@ layout: page
 <img src="/assets/images/y6.jpeg">
 <img src="/assets/images/x4.jpeg">
 <img src="/assets/images/y5.jpeg">
-<img src="/assets/images/e.jpg">
-<img src="/assets/images/f.jpg">
+
+
 <img src="/assets/images/x13.jpeg">
 <img src="/assets/images/c.jpg">
 <img src="/assets/images/h.jpg">
-<img src="/assets/images/x2.jpeg">
+
 <img src="/assets/images/y1.jpeg">
 <img src="/assets/images/y2.jpeg">
 <img src="/assets/images/y3.jpeg">
