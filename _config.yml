@@ -32,9 +32,9 @@ permalink: /:title/
 # updating for GA 4 property
 google_analytics: 'G-QBRGW7X8NS'
 
-- theme: minima
-+ remote_theme: jekyll/minima
- plugins: 
+# - theme: minima
+# + remote_theme: jekyll/minima
+#  plugins: 
 + - jekyll-remote-theme
 
 # To enable piwik tracking, supply your url & site ID below
