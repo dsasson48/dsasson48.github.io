@@ -34,8 +34,7 @@ google_analytics: 'G-QBRGW7X8NS'
 
 - theme: minima
 + remote_theme: jekyll/minima
-
-  plugins:
+ plugins: 
 + - jekyll-remote-theme
 
 # To enable piwik tracking, supply your url & site ID below
