@@ -30,7 +30,7 @@ permalink: /:title/
 # analytics-google: 'UA-110153083-1'
 
 # updating for GA 4 property
-google_analytics: 'G-QBRGW7X8NS'
+google_analytics: G-QBRGW7X8NS
 
 remote_theme: jekyll/minima
 
