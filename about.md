@@ -3,7 +3,7 @@ title: About
 layout: page
 ---
 
-I am a freelance data scientist specializing in bioinformatics and currently collaborating with a Y-combinator backed [company](https://www.kiwibiosciences.com/). With a wealth of experience across diverse settings including large and small startups, government labs, academic research, and professional consulting, I bring a unique perspective to every project.
+I am a freelance data scientist specializing in bioinformatics currently collaborating with a Y-combinator backed [company](https://www.kiwibiosciences.com/). With a wealth of experience across diverse settings including large and small startups, government labs, academic research, and professional consulting, I bring a unique perspective to every project.
 
 During my time in grad school, I had the opportunity to organize hackathon events that focused on the intersection of healthcare and AI. Additionally, I have published research in peer-reviewed journals and delivered lectures on a wide range of topics  data science. My educational background includes degrees from [Macaulay Honors College](https://macaulay.cuny.edu/) and [Harvard](https://www.hsph.harvard.edu/), where I focused on biochemistry and machine learning.
 
