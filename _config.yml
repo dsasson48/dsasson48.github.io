@@ -26,24 +26,16 @@ enforce_ssl: http://dsasson48.github.io
 
 permalink: /:title/
 
-# To enable google analytics, supply your token below
-# analytics-google: 'UA-110153083-1'
 
 # updating for GA 4 property
 google_analytics: 'G-QBRGW7X8NS'
 
-<<<<<<< HEAD
+
 remote_theme: jekyll/minima
 
 plugins:
 - jekyll-remote-theme
 
-=======
-# - theme: minima
-# + remote_theme: jekyll/minima
-#  plugins: 
-+ - jekyll-remote-theme
->>>>>>> parent of 8afc464 (Update _config.ymlxd)
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
